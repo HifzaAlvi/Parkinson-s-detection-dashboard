@@ -1,0 +1,2 @@
+Dataset,Source,Records,Unique participants,Input features,Target,Modality
+UCI Oxford Parkinson's voice dataset,https://archive.ics.uci.edu/ml/machine-learning-databases/parkinsons/parkinsons.data,195,32,22,"status (0=control, 1=Parkinson's disease)",Voice only

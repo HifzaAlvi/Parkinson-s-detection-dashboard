@@ -1,0 +1,2 @@
+Rows before,Features before,Missing feature values before,Duplicate rows,Rows after numeric conversion,Features after numeric conversion,Missing values after conversion,Missing-value treatment,Scaling
+195,22,0,0,195,22,0,Median imputation fitted on training folds only,StandardScaler fitted on training folds for LR/SVM/KNN
